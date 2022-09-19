@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanssuchi
+- 👋 Hi, I’m @chanssuchi.
 - 👀 I’m interested in distribute system, blockchain, web backend and GUI.
 
 <a href="/">
